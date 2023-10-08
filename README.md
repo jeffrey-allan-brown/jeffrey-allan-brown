@@ -4,7 +4,7 @@
 
 <div id="header" align="center">
    <div id="header" align="center">
-    <img src="" width="100%" />
+    <img src="/assets/images/header.png" width="100%" />
   </div>
 
 ---

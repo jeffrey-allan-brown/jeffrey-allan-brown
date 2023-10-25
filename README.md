@@ -38,11 +38,12 @@
 
 
 ##### 🤖 Data & ML : 
--
+![Numpy](https://img.shields.io/badge/package-numpy-blue?logo=numpy)
+![Pandas](https://img.shields.io/badge/package-pandas-blue?logo=pandas)
 
 ##### ☁️ Cloud : 
 -
 
 ##### 🔨 Tools : 
 ![Git](https://img.shields.io/badge/Git-000000?style=flat&logo=Git&logoColor=white&labelColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat&logo=Git&logoColor=white&labelColor=2496ED)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat&logo=Github&logoColor=white&labelColor=2496ED)

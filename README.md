@@ -4,14 +4,29 @@
 
 <div id="header" align="center">
    <div id="header" align="center">
-    <img src="/assets/images/header.png" width="100%" />
+    <img src="/assets/images/banner.png" width="100%" />
   </div>
+  <br>
+  <div id="badges">
+    <a href="https://jeffreyallanbrown.com/">
+      <img src="https://img.shields.io/badge/portfolio-4366f0?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio Badge"/>
+    </a>
+    <a href="https://www.linkedin.com/in/jeffreyallanbrown/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+  </div>
+
+  <h4> Web Development | Data Engineering | Marketing Operations </h4>
+  
+</div>
 
 ---
 
 #### :man_technologist: About Me :
 
-> A Phenomenology of Ontological Anxiety
+> « A phenomenology of ontological anxiety. »
+
+I'm a life-long learner with a passion for trying new things and gaining new skills. Empowered by digital technology, I make use of the resources available to me to teach myself how to build useful tools and to interact with the world around me. I love solving problems, and am perpetually seeking out new opportunities to challenge myself and grow both personally and professionally.
 
 #### 🎓 Certifications :
 
